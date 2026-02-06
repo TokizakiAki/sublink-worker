@@ -80,7 +80,7 @@ export const SING_BOX_CONFIG = {
 				"tag": "geosite-geolocation-!cn",
 				"type": "local",
 				"format": "binary",
-				"path": "geosite-geolocation-!cn.srs"
+				"path": "geosite-geolocation-!cn.srs",
 				"download_detour": "🚀 节点选择"
 			}
 		],
