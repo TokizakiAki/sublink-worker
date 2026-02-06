@@ -81,6 +81,7 @@ export const SING_BOX_CONFIG = {
 				"type": "local",
 				"format": "binary",
 				"path": "geosite-geolocation-!cn.srs"
+				"download_detour": "🚀 节点选择"
 			}
 		],
 		rules: []
